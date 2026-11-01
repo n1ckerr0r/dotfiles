@@ -1,0 +1,15 @@
+{
+    "defaultWallpaper": "/home/n1ckerr0r/.local/share/backgrounds/lisau_1.png",
+    "usedRandomWallpapers": {
+    },
+    "wallpapers": {
+        "eDP-1": {
+            "dark": "/home/n1ckerr0r/.local/share/backgrounds/lisau_1.png",
+            "light": "/home/n1ckerr0r/.local/share/backgrounds/lisau_1.png"
+        },
+        "winit": {
+            "dark": "/home/n1ckerr0r/.local/share/backgrounds/lisau_1.png",
+            "light": "/home/n1ckerr0r/.local/share/backgrounds/lisau_1.png"
+        }
+    }
+}

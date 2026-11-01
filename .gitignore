@@ -1,0 +1,6 @@
+*.hm-backup
+*.log
+chrome-error.log
+.zcompdump*
+*.zwc
+
