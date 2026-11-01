@@ -20,12 +20,11 @@ repository is itself a submodule of `nixos-configuration`.
 VS Code settings and keybindings are linked into `~/.config/Code/User`. Runtime
 state, extensions, profiles, history and caches remain outside Git.
 
-## GTK
+## GTK and OBS
 
-GTK settings are generated declaratively by `desktop/gtk.nix`. Only the dconf
-interface values are sourced from `gtk/dconf-interface.json`. OBS runtime state
-is deliberately not linked because OBS atomically replaces its configuration
-file and would break an editable symlink.
+GTK settings and dconf values are generated declaratively by the NixOS/Home
+Manager repository. OBS runtime state is deliberately not linked because OBS
+atomically replaces its configuration file and would break an editable symlink.
 
 ## Zsh
 
