@@ -1,0 +1,8 @@
+{
+  "rules": [
+    {
+      "pattern": "/^(Telegram Desktop|Telegram|telegram-desktop|org\\.telegram\\.desktop) /",
+      "action": "block"
+    }
+  ]
+}
